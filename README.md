@@ -53,10 +53,10 @@ Sloupec "-" reprezentuje stranu bez uvedeného jména a je ponechán z důvodu m
 
 ## Spuštění - ukázky
 
-# Upozornění při nezadání parametrů
+### Upozornění při nezadání parametrů
 ![obrazek](https://github.com/user-attachments/assets/36a41fa2-f787-4349-86be-7ea05e95db42)
 
-# Spuštění s parametry
+### Spuštění s parametry
 Zadání
 ![obrazek](https://github.com/user-attachments/assets/09e062b0-9115-411a-a964-9890bf66f8ef)
 Dogenerování

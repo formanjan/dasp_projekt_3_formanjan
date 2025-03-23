@@ -1,0 +1,135 @@
+Zpracovávám obec: Alojzov (506761)
+Zpracovávám obec: Bedihošť (589268)
+Zpracovávám obec: Bílovice-Lutotín (589276)
+⚠️ U obce Bílovice-Lutotín (589276) chybí statistiky, přeskočeno.
+Zpracovávám obec: Biskupice (589284)
+Zpracovávám obec: Bohuslavice (589292)
+Zpracovávám obec: Bousín (589306)
+Zpracovávám obec: Brodek u Konice (589314)
+⚠️ U obce Brodek u Konice (589314) chybí statistiky, přeskočeno.
+Zpracovávám obec: Brodek u Prostějova (589322)
+⚠️ U obce Brodek u Prostějova (589322) chybí statistiky, přeskočeno.
+Zpracovávám obec: Březsko (589331)
+Zpracovávám obec: Budětsko (589349)
+Zpracovávám obec: Buková (589357)
+Zpracovávám obec: Čehovice (589365)
+Zpracovávám obec: Čechy pod Kosířem (589381)
+Zpracovávám obec: Čelčice (589390)
+Zpracovávám obec: Čelechovice na Hané (589403)
+⚠️ U obce Čelechovice na Hané (589403) chybí statistiky, přeskočeno.
+Zpracovávám obec: Dětkovice (589420)
+Zpracovávám obec: Dobrochov (589438)
+Zpracovávám obec: Dobromilice (589446)
+Zpracovávám obec: Doloplazy (589454)
+Zpracovávám obec: Drahany (589462)
+Zpracovávám obec: Držovice (558419)
+Zpracovávám obec: Dřevnovice (589489)
+Zpracovávám obec: Dzbel (589497)
+Zpracovávám obec: Hačky (549967)
+Zpracovávám obec: Hluchov (589501)
+Zpracovávám obec: Horní Štěpánov (589519)
+⚠️ U obce Horní Štěpánov (589519) chybí statistiky, přeskočeno.
+Zpracovávám obec: Hradčany-Kobeřice (589527)
+⚠️ U obce Hradčany-Kobeřice (589527) chybí statistiky, přeskočeno.
+Zpracovávám obec: Hrdibořice (589535)
+Zpracovávám obec: Hrubčice (589543)
+Zpracovávám obec: Hruška (543543)
+Zpracovávám obec: Hvozd (589560)
+⚠️ U obce Hvozd (589560) chybí statistiky, přeskočeno.
+Zpracovávám obec: Ivaň (589578)
+Zpracovávám obec: Jesenec (589586)
+Zpracovávám obec: Kladky (589594)
+Zpracovávám obec: Klenovice na Hané (589608)
+Zpracovávám obec: Klopotovice (589616)
+Zpracovávám obec: Konice (589624)
+⚠️ U obce Konice (589624) chybí statistiky, přeskočeno.
+Zpracovávám obec: Kostelec na Hané (589632)
+⚠️ U obce Kostelec na Hané (589632) chybí statistiky, přeskočeno.
+Zpracovávám obec: Koválovice-Osíčany (589641)
+Zpracovávám obec: Kralice na Hané (589659)
+Zpracovávám obec: Krumsín (589667)
+Zpracovávám obec: Laškov (589675)
+⚠️ U obce Laškov (589675) chybí statistiky, přeskočeno.
+Zpracovávám obec: Lešany (589683)
+Zpracovávám obec: Lipová (589691)
+⚠️ U obce Lipová (589691) chybí statistiky, přeskočeno.
+Zpracovávám obec: Ludmírov (589705)
+⚠️ U obce Ludmírov (589705) chybí statistiky, přeskočeno.
+Zpracovávám obec: Malé Hradisko (589713)
+Zpracovávám obec: Mořice (589721)
+Zpracovávám obec: Mostkovice (589730)
+Zpracovávám obec: Myslejovice (589748)
+⚠️ U obce Myslejovice (589748) chybí statistiky, přeskočeno.
+Zpracovávám obec: Němčice nad Hanou (589756)
+⚠️ U obce Němčice nad Hanou (589756) chybí statistiky, přeskočeno.
+Zpracovávám obec: Nezamyslice (589764)
+Zpracovávám obec: Niva (589772)
+Zpracovávám obec: Obědkovice (589799)
+Zpracovávám obec: Ohrozim (589802)
+Zpracovávám obec: Ochoz (589811)
+Zpracovávám obec: Olšany u Prostějova (589829)
+⚠️ U obce Olšany u Prostějova (589829) chybí statistiky, přeskočeno.
+Zpracovávám obec: Ondratice (589837)
+Zpracovávám obec: Otaslavice (589845)
+Zpracovávám obec: Otinoves (589853)
+Zpracovávám obec: Pavlovice u Kojetína (557196)
+Zpracovávám obec: Pěnčín (589870)
+Zpracovávám obec: Pivín (589888)
+Zpracovávám obec: Plumlov (589896)
+⚠️ U obce Plumlov (589896) chybí statistiky, přeskočeno.
+Zpracovávám obec: Polomí (549983)
+Zpracovávám obec: Prostějov (589250)
+⚠️ U obce Prostějov (589250) byla zjištěna neplausibilní statistika – přeskočeno.
+Zpracovávám obec: Prostějovičky (589918)
+Zpracovávám obec: Protivanov (589926)
+Zpracovávám obec: Přemyslovice (589934)
+⚠️ U obce Přemyslovice (589934) chybí statistiky, přeskočeno.
+Zpracovávám obec: Ptení (589942)
+⚠️ U obce Ptení (589942) chybí statistiky, přeskočeno.
+Zpracovávám obec: Raková u Konice (589951)
+Zpracovávám obec: Rakůvka (589969)
+Zpracovávám obec: Rozstání (589977)
+⚠️ U obce Rozstání (589977) chybí statistiky, přeskočeno.
+Zpracovávám obec: Seloutky (506770)
+Zpracovávám obec: Skalka (589993)
+Zpracovávám obec: Skřípov (590002)
+Zpracovávám obec: Slatinky (590011)
+Zpracovávám obec: Smržice (590029)
+Zpracovávám obec: Srbce (590045)
+Zpracovávám obec: Stařechovice (590053)
+⚠️ U obce Stařechovice (590053) chybí statistiky, přeskočeno.
+Zpracovávám obec: Stínava (590061)
+Zpracovávám obec: Stražisko (590070)
+Zpracovávám obec: Suchdol (590088)
+⚠️ U obce Suchdol (590088) chybí statistiky, přeskočeno.
+Zpracovávám obec: Šubířov (590096)
+Zpracovávám obec: Tištín (590100)
+Zpracovávám obec: Tvorovice (590118)
+Zpracovávám obec: Určice (590126)
+⚠️ U obce Určice (590126) chybí statistiky, přeskočeno.
+Zpracovávám obec: Víceměřice (590134)
+Zpracovávám obec: Vícov (590142)
+Zpracovávám obec: Vincencov (544710)
+Zpracovávám obec: Vitčice (590151)
+Zpracovávám obec: Vranovice-Kelčice (590177)
+⚠️ U obce Vranovice-Kelčice (590177) chybí statistiky, přeskočeno.
+Zpracovávám obec: Vrbátky (590185)
+⚠️ U obce Vrbátky (590185) chybí statistiky, přeskočeno.
+Zpracovávám obec: Vrchoslavice (590193)
+Zpracovávám obec: Vřesovice (590207)
+Zpracovávám obec: Výšovice (590215)
+Zpracovávám obec: Zdětín (590223)
+Zpracovávám obec: Želeč (590240)
+
+✅ Hotovo! Výsledky byly uloženy do souboru:
+C:\Users\forma\Desktop\Engeto_Projekty\dasp_projekt_3_formanjan\prostejov.csv
+
+📄 PROTOKOL BĚHU SKRIPTU
+🕒 Čas spuštění: 2025-03-23 19:03:13
+🕓 Čas dokončení: 2025-03-23 19:03:30
+⌛ Celkový čas běhu: 0:00:16.446213
+🌐 Zadaná URL adresa: https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=12&xnumnuts=7103
+📊 Obcí celkem: 97
+✅ Úspěšně zpracováno: 72
+⚠️ Přeskočeno kvůli chybě: 25
+📁 Uložený soubor: C:\Users\forma\Desktop\Engeto_Projekty\dasp_projekt_3_formanjan\prostejov.csv

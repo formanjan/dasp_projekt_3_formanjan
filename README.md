@@ -39,8 +39,8 @@ Terminál: python dasp_projekt_3_formanjan.py "URL_KRAJE" nazev_souboru.csv
 ---
 
 ## Jak nainstalovat knihovny třetích stran
-Terminál: pip install requests
-Terminál: pip install beautifulsoup4
+- Terminál: pip install requests
+- Terminál: pip install beautifulsoup4
 
 ---
 
@@ -54,19 +54,23 @@ Sloupec "-" reprezentuje stranu bez uvedeného jména a je ponechán z důvodu m
 ## Spuštění - ukázky
 
 ### Upozornění při nezadání parametrů
-![obrazek](https://github.com/user-attachments/assets/36a41fa2-f787-4349-86be-7ea05e95db42)
+- ![obrazek](https://github.com/user-attachments/assets/36a41fa2-f787-4349-86be-7ea05e95db42)
 
 ### Spuštění s parametry
-Zadání
-![obrazek](https://github.com/user-attachments/assets/09e062b0-9115-411a-a964-9890bf66f8ef)
-Dogenerování
-![obrazek](https://github.com/user-attachments/assets/7aa9d82d-2f6e-46b6-8a04-8d9e8acb1863)
-Soubory
-![obrazek](https://github.com/user-attachments/assets/03f7ae55-48d5-4983-8509-dd5ef18e154a)
-Ukázka_csv
-![obrazek](https://github.com/user-attachments/assets/5b6676ee-0339-4086-bc1c-20230b382145)
-Ukázka_protokol
-![obrazek](https://github.com/user-attachments/assets/42937343-4631-4a76-b515-43fd6e51161c)
+- Zadání
+- ![obrazek](https://github.com/user-attachments/assets/09e062b0-9115-411a-a964-9890bf66f8ef)
+
+- Dogenerování
+- ![obrazek](https://github.com/user-attachments/assets/7aa9d82d-2f6e-46b6-8a04-8d9e8acb1863)
+
+- Soubory
+- ![obrazek](https://github.com/user-attachments/assets/03f7ae55-48d5-4983-8509-dd5ef18e154a)
+
+- Ukázka_csv
+- ![obrazek](https://github.com/user-attachments/assets/5b6676ee-0339-4086-bc1c-20230b382145)
+
+- Ukázka_protokol
+- ![obrazek](https://github.com/user-attachments/assets/42937343-4631-4a76-b515-43fd6e51161c)
 
 
 

@@ -1,0 +1,134 @@
+Zpracovávám obec: Běleč (535010)
+Zpracovávám obec: Běloky (532070)
+Zpracovávám obec: Beřovice (532088)
+Zpracovávám obec: Bílichov (535125)
+Zpracovávám obec: Blevice (532100)
+Zpracovávám obec: Brandýsek (532118)
+Zpracovávám obec: Braškov (532126)
+Zpracovávám obec: Bratronice (532142)
+⚠️ U obce Bratronice (532142) chybí statistiky, přeskočeno.
+Zpracovávám obec: Buštěhrad (532169)
+⚠️ U obce Buštěhrad (532169) chybí statistiky, přeskočeno.
+Zpracovávám obec: Cvrčovice (532185)
+Zpracovávám obec: Černuc (532207)
+⚠️ U obce Černuc (532207) chybí statistiky, přeskočeno.
+Zpracovávám obec: Doksy (532223)
+Zpracovávám obec: Dolany (513130)
+Zpracovávám obec: Drnek (512991)
+Zpracovávám obec: Družec (532274)
+Zpracovávám obec: Dřetovice (532282)
+Zpracovávám obec: Dřínov (532291)
+Zpracovávám obec: Hobšovice (513075)
+Zpracovávám obec: Horní Bezděkov (532312)
+Zpracovávám obec: Hořešovice (532321)
+Zpracovávám obec: Hořešovičky (535150)
+Zpracovávám obec: Hospozín (532339)
+Zpracovávám obec: Hostouň (532347)
+Zpracovávám obec: Hradečno (532355)
+⚠️ U obce Hradečno (532355) chybí statistiky, přeskočeno.
+Zpracovávám obec: Hrdlív (532363)
+Zpracovávám obec: Hřebeč (532371)
+Zpracovávám obec: Chržín (532398)
+Zpracovávám obec: Jarpice (532401)
+Zpracovávám obec: Jedomělice (532410)
+Zpracovávám obec: Jemníky (532428)
+Zpracovávám obec: Kačice (532444)
+Zpracovávám obec: Kamenné Žehrovice (532452)
+Zpracovávám obec: Kamenný Most (513032)
+Zpracovávám obec: Kladno (532053)
+⚠️ U obce Kladno (532053) byla zjištěna neplausibilní statistika – přeskočeno.
+Zpracovávám obec: Klobuky (532461)
+⚠️ U obce Klobuky (532461) chybí statistiky, přeskočeno.
+Zpracovávám obec: Kmetiněves (532479)
+Zpracovávám obec: Knovíz (532487)
+Zpracovávám obec: Koleč (532495)
+Zpracovávám obec: Královice (535109)
+Zpracovávám obec: Kutrovice (571512)
+Zpracovávám obec: Kvílice (532517)
+Zpracovávám obec: Kyšice (532525)
+Zpracovávám obec: Lány (541991)
+⚠️ U obce Lány (541991) chybí statistiky, přeskočeno.
+Zpracovávám obec: Ledce (532533)
+Zpracovávám obec: Lhota (513041)
+Zpracovávám obec: Libochovičky (564150)
+Zpracovávám obec: Libovice (571601)
+Zpracovávám obec: Libušín (532576)
+⚠️ U obce Libušín (532576) chybí statistiky, přeskočeno.
+Zpracovávám obec: Lidice (532584)
+Zpracovávám obec: Líský (571555)
+Zpracovávám obec: Loucká (535095)
+Zpracovávám obec: Makotřasy (532622)
+Zpracovávám obec: Malé Kyšice (532631)
+Zpracovávám obec: Malé Přítočno (513113)
+Zpracovávám obec: Malíkovice (532657)
+⚠️ U obce Malíkovice (532657) chybí statistiky, přeskočeno.
+Zpracovávám obec: Neprobylice (571521)
+Zpracovávám obec: Neuměřice (532665)
+Zpracovávám obec: Otvovice (532681)
+Zpracovávám obec: Páleč (564192)
+Zpracovávám obec: Pavlov (532711)
+Zpracovávám obec: Pchery (532720)
+⚠️ U obce Pchery (532720) chybí statistiky, přeskočeno.
+Zpracovávám obec: Pletený Újezd (532738)
+Zpracovávám obec: Plchov (564125)
+Zpracovávám obec: Podlešín (532754)
+Zpracovávám obec: Poštovice (564087)
+Zpracovávám obec: Pozdeň (532762)
+⚠️ U obce Pozdeň (532762) chybí statistiky, přeskočeno.
+Zpracovávám obec: Přelíc (532771)
+Zpracovávám obec: Řisuty (532797)
+Zpracovávám obec: Sazená (532801)
+Zpracovávám obec: Slaný (532819)
+⚠️ U obce Slaný (532819) byla zjištěna neplausibilní statistika – přeskočeno.
+Zpracovávám obec: Slatina (532827)
+Zpracovávám obec: Smečno (532835)
+⚠️ U obce Smečno (532835) chybí statistiky, přeskočeno.
+Zpracovávám obec: Stehelčeves (532851)
+Zpracovávám obec: Stochov (532860)
+⚠️ U obce Stochov (532860) chybí statistiky, přeskočeno.
+Zpracovávám obec: Stradonice (599441)
+Zpracovávám obec: Studeněves (551457)
+Zpracovávám obec: Svárov (599433)
+Zpracovávám obec: Svinařov (532908)
+Zpracovávám obec: Šlapanice (532916)
+Zpracovávám obec: Třebichovice (532959)
+Zpracovávám obec: Třebíz (532967)
+Zpracovávám obec: Třebusice (532975)
+Zpracovávám obec: Tuchlovice (532983)
+⚠️ U obce Tuchlovice (532983) chybí statistiky, přeskočeno.
+Zpracovávám obec: Tuřany (532177)
+Zpracovávám obec: Uhy (533009)
+Zpracovávám obec: Unhošť (533017)
+⚠️ U obce Unhošť (533017) chybí statistiky, přeskočeno.
+Zpracovávám obec: Velká Dobrá (533025)
+Zpracovávám obec: Velké Přítočno (533033)
+Zpracovávám obec: Velvary (533041)
+⚠️ U obce Velvary (533041) chybí statistiky, přeskočeno.
+Zpracovávám obec: Vinařice (533050)
+⚠️ U obce Vinařice (533050) chybí statistiky, přeskočeno.
+Zpracovávám obec: Vraný (533068)
+⚠️ U obce Vraný (533068) chybí statistiky, přeskočeno.
+Zpracovávám obec: Vrbičany (571431)
+Zpracovávám obec: Zájezd (571598)
+Zpracovávám obec: Zákolany (533092)
+Zpracovávám obec: Zichovec (571423)
+Zpracovávám obec: Zlonice (533114)
+⚠️ U obce Zlonice (533114) chybí statistiky, přeskočeno.
+Zpracovávám obec: Zvoleněves (533122)
+Zpracovávám obec: Želenice (599425)
+Zpracovávám obec: Žilina (533149)
+Zpracovávám obec: Žižice (533157)
+⚠️ U obce Žižice (533157) chybí statistiky, přeskočeno.
+
+✅ Hotovo! Výsledky byly uloženy do souboru:
+C:\Users\forma\Desktop\Engeto_Projekty\dasp_projekt_3_formanjan\kladno_v2.csv
+
+📄 PROTOKOL BĚHU SKRIPTU
+🕒 Čas spuštění: 2025-04-04 17:10:00
+🕓 Čas dokončení: 2025-04-04 17:10:18
+⌛ Celkový čas běhu: 0:00:18.282577
+🌐 Zadaná URL adresa: https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=2&xnumnuts=2103
+📊 Obcí celkem: 100
+✅ Úspěšně zpracováno: 79
+⚠️ Přeskočeno kvůli chybě: 21
+📁 Uložený soubor: C:\Users\forma\Desktop\Engeto_Projekty\dasp_projekt_3_formanjan\kladno_v2.csv

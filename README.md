@@ -1,4 +1,4 @@
-# dasp_projekt_3_formanjan
+# dasp_projekt_3_formanjan "main.py"
 # Projekt 3 – Volební výsledky do CSV (Engeto Python Akademie)
 
 Tento Python skript umožňuje stáhnout výsledky voleb z webu [volby.cz](https://www.volby.cz) pro konkrétní územní celek a uložit je do CSV souboru včetně automatického vytvoření textového protokolu o běhu skriptu.
@@ -34,7 +34,7 @@ Tento Python skript umožňuje stáhnout výsledky voleb z webu [volby.cz](https
 
 Skript se spouští z příkazové řádky se dvěma argumenty:
 
-Terminál: python dasp_projekt_3_formanjan.py "URL_KRAJE" nazev_souboru.csv
+Terminál: python main.py "URL_KRAJE" nazev_souboru.csv
 
 ---
 
